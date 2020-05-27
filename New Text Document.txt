@@ -1,0 +1,2 @@
+image compress
+git bash terminal vs code
